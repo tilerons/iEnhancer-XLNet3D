@@ -2,6 +2,8 @@
 
 This repository contains the pre-trained weights for the **DNA3_XLNet** model, which is a reconstructed version of **XLNet** optimized for DNA sequence encoding. These weights are part of the **iEnhancer-XLNet3D** model designed for DNA enhancer recognition and functional genomics tasks.
 
+<img  alt="image" src="https://github.com/user-attachments/assets/fcdf3c02-f85c-45db-8311-f53e301b34bf" />
+
 ## Overview
 
 The **DNA3_XLNet** model utilizes a **3-mer tokenization strategy** specifically designed for genomic sequence representation. By using **closed-set 3-mer embeddings**, this model significantly reduces parameter size while maintaining the ability to capture important local sequence patterns and long-range dependencies, making it ideal for DNA sequence analysis, particularly for enhancer prediction tasks.
